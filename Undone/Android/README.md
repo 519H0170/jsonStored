@@ -1,4 +1,6 @@
 # Group10 T5CA1
+ > Trường Chin
+ > Zion Nguyễn
 
 ## How to Use
 1. **Software Requirement:** 
