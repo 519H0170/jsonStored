@@ -1,0 +1,19 @@
+[
+    {
+        "customer": "BigC",
+        "performances": [
+            {
+                "playID": "titanic",
+                "audience": 70
+            },
+            {
+                "playID": "randj",
+                "audience": 100
+            },
+            {
+                "playID": "othello",
+                "audience": 35
+            }
+        ]
+    }
+]

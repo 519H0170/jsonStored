@@ -1,0 +1,14 @@
+{
+    "randj": {
+        "name": "Romeo and Juliet",
+        "type": "romantic"
+    },
+    "titanic": {
+        "name": "Titanic",
+        "type": "romantic"
+    },
+    "othello": {
+        "name": "Othello",
+        "type": "comedy"
+    }
+}
