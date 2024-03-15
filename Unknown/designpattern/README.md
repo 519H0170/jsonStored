@@ -4,7 +4,7 @@ Java Script
 Chapter 01: Refactoring, a First Example  
 Chapter 02: Principles in Refactoring
 
-> Hùng Nguyễn
+> Zion Nguyễn
 > 
 > Trường Chin
 > 
